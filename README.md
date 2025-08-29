@@ -1,2 +1,4 @@
-# DOS
-A self-made mini DOS system using Python
+# DOS Computer Simulator
+A self-made easy mini DOS system using Python
+The Product features will less
+For study and practice purposes!
